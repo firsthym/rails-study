@@ -1,0 +1,1 @@
+This is my first [*ruby application*], just for [*study*]
